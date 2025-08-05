@@ -35,4 +35,8 @@ This project visualizes insights from a survey of 630 data professionals around 
 
 ---
 
+## Author
+**Ritika Shah**  
+  Accounting and Finance Student | Aspiring Data Analyst  
+  [www.linkedin.com/in/ritika-shah-294896259]
 
