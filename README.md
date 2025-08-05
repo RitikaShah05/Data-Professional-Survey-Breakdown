@@ -8,8 +8,7 @@ This project visualizes insights from a survey of 630 data professionals around 
 
 ## Dashboard Overview
 
-[![Dashboard Snapshoot](<img width="1320" height="742" alt="Snapshot of Dashboard" src="https://github.com/user-attachments/assets/0becbed6-6e03-49ae-a5ba-b6c050de0b9d" />
-)](https://github.com/RitikaShah05/Data-Professional-Survey-Breakdown/blob/main/Snapshot%20of%20Dashboard.png)
+<img width="1320" height="742" alt="Snapshot of Dashboard" src="https://github.com/user-attachments/assets/8075322e-431a-4568-90de-358a5510d0a5" />
 
 ## Key Insights:
 
