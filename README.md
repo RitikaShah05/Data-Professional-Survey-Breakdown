@@ -8,7 +8,7 @@ This project visualizes insights from a survey of 630 data professionals around 
 
 ## Dashboard Overview
 
-<img width="1320" height="742" alt="Snapshot of Dashboard" src="https://github.com/user-attachments/assets/8075322e-431a-4568-90de-358a5510d0a5" />
+
 
 ## Key Insights:
 
