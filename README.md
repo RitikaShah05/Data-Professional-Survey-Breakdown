@@ -8,7 +8,7 @@ This project visualizes insights from a survey of 630 data professionals around 
 
 ## Dashboard Overview
 
-
+![Dashboard Image](https://github.com/RitikaShah05/Data-Professional-Survey-Breakdown/blob/main/Snapshot%20of%20Dashboard.png)
 
 ## Key Insights:
 
