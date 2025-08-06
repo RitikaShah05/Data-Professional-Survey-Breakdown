@@ -1,5 +1,7 @@
 # Data Professional Survey Dashboard
 
+## Project Overview
+
 This project visualizes insights from a survey of 630 data professionals around the world, built using **Power BI**.
 
 ## Tools Used:
